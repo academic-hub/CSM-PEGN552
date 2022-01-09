@@ -2,3 +2,4 @@ ocs_academic_hub==0.99.34
 plotly
 matplotlib
 sklearn
+nbgitpuller
