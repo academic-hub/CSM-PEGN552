@@ -1,4 +1,4 @@
-ocs_academic_hub==0.99.36
+ocs_academic_hub==0.99.38
 plotly
 matplotlib
 sklearn
